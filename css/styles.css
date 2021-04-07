@@ -128,6 +128,9 @@ p{
     width: 13%;
     margin: 20px 20px 50px;
 }
+.press-logo:hover{
+    width: 16%
+}
 
 /* pricing section */
 
@@ -152,6 +155,9 @@ p{
 
 /* footer */
 
+.footer-text:hover{
+    color: black;
+}
 .footer-icon{
     color: black;
     margin: 20px 10px;
