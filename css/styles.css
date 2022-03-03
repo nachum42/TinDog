@@ -129,7 +129,11 @@ p{
     margin: 20px 20px 50px;
 }
 .press-logo:hover{
-    width: 16%
+    width: 16%;
+    margin:20px 0px 50px;
+}
+.tnw-logo:hover{
+    margin: 20px 0px 33px;
 }
 
 /* pricing section */
